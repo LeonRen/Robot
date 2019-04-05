@@ -1,2 +1,2 @@
 # A seed planting Robot
-![](Image/Image1.jpg)
+![](image/Image1.jpg)
